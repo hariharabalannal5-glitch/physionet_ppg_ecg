@@ -10,3 +10,10 @@ __pycache__/
 training/
 extracted_data/
 models/*.h5
+
+venv/
+extracted_data/
+scripts/physionet_data/
+*.npy
+*.pkl
+*.zip

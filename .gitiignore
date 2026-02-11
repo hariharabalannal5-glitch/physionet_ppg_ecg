@@ -1,0 +1,19 @@
+# Environments
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large Data & Models
+training/
+extracted_data/
+models/*.h5
+
+venv/
+extracted_data/
+scripts/physionet_data/
+*.npy
+*.pkl
+*.zip
